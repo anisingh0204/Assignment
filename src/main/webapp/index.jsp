@@ -81,7 +81,7 @@
     	</form>
     	</div>
     	<div class="add">
-	    <button ><a href="AddEmployee.jsp" >Add Employee</a></button>
+	    <button ><a href="AddEmployee.jsp" >Example</a></button>
 	    </div>
 	    
     </nav>
